@@ -8,6 +8,7 @@ export default function Layout({ children }: PropsWithChildren<{}>) {
         {children}
       </main>
       <Footer />
+
     </div>
   )
 }

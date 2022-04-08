@@ -36,7 +36,7 @@ export default function Products({ submitTarget, enabled }: Props) {
           className="items-center px-20 rounded-md py-2 max-w-fit self-center bg-gray-900 text-white hover:scale-105 disabled:opacity-50 disabled:cursor-not-allowed"
           disabled={!enabled}
         >
-          Checkout
+          Checkout <img src="/white-gradient.svg" />
         </button>
       </div>
     </form>
