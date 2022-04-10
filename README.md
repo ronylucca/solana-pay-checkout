@@ -31,7 +31,7 @@ This is a point-of-sale web app that allows us to take payments from customers i
 
 
 
-Also going to look at online payments in Solana, and build a loyalty card scheme. Tokens were mint and this app is prepared to give a unit in every order. So users have a 50% discount on every 5th purchase. Or whatever you like really, it’s super flexible. We’ll finish up with a sneak peek at some really cool upcoming Solana Pay functionality that pulls all of this together!
+Also going to look at online payments in Solana, and build a loyalty card scheme. Tokens were mint and this app is prepared to give a unit in every order. So users have a 50% discount on every 5th purchase.
 
 Here's what is built
 
