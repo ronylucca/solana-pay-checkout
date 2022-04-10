@@ -17,7 +17,7 @@
 
 This is a point-of-sale web app that allows us to take payments from customers in person. /shop checkout feature presents a QR code that customers/buyers can scan with a Solana wallet to make the payment. As soon as they do this app checkout page app will update to show that they’ve paid.
 
-/shop - demo. Charge you devnet wallet with some faucets in USDC here. And prepare you mobile Phantom wallet app to use.
+[QR Code shop demo SolanaPay](https://solana-pay-checkout.vercel.app/shop). Charge you devnet wallet with some faucets in USDC [here](https://spl-token-faucet.com/?token-name=USDC-Dev). And prepare you mobile Phantom wallet app to use.
 ![solanapayQr](https://user-images.githubusercontent.com/3811091/162596348-9906f818-a4f9-482d-9602-97996ca60d95.gif)
 
 
