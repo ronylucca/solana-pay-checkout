@@ -18,6 +18,8 @@
 This is a point-of-sale web app that allows us to take payments from customers in person. /shop checkout feature presents a QR code that customers/buyers can scan with a Solana wallet to make the payment. As soon as they do this app checkout page app will update to show that they’ve paid.
 
 /shop - demo. Charge you devnet wallet with some faucets in USDC here. And prepare you mobile Phantom wallet app to use.
+![solanapayQr](https://user-images.githubusercontent.com/3811091/162596348-9906f818-a4f9-482d-9602-97996ca60d95.gif)
+
 
 
 
@@ -28,7 +30,8 @@ Here's what is built
 online solana pay using loyalty card scheme discount
 
 
+https://user-images.githubusercontent.com/3811091/162596313-87b8ad7a-bf1f-4bd0-8094-1ca2501a73df.mp4
 
-https://user-images.githubusercontent.com/5760059/154543585-74136a91-bac1-4935-8790-c943b71f43df.mov
+
 
 
